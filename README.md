@@ -99,6 +99,3 @@ maze = [
 
 You can adjust the size, layout, and positions of walls, open spaces, start, and end points.
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code as long as proper attribution is given.
